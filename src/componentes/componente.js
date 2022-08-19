@@ -5,7 +5,7 @@ export const ComponentePrueba = () => {
 };
 
 export const Componentedany = () => {
-  return <p className="dany"> dany</p>;
+  return <p className="danyasdasdasd"> dany</p>;
 };
 
 export const JoakoApp = () => {
